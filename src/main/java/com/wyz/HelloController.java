@@ -25,7 +25,7 @@ public class HelloController {
 
     @RequestMapping(value = "/say",method = RequestMethod.GET)
     public String say(Integer id){
-//        girlProperties.getCupSize()+":"+girlProperties.getAge()
+//        girlProperties.getCupSize()+":"+girlProperties.getAge()123
         return "id:"+id;
     }
 }

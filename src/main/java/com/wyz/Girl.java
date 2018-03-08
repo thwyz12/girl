@@ -5,7 +5,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 /**
- * Created by wyz on 2018/3/8.
+ * Created by wyz on 2018/3/8.123
  */
 @Entity
 public class Girl {
